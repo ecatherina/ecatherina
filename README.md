@@ -2,8 +2,8 @@
 Currently, I am a PhD student in Data Science at [Skoltech](https://www.skoltech.ru/obrazovanie/programmy-aspirantury/informatika-i-vychislitelnaya-tehnika/). The topic of my research is *signal processing*, *time-frequency distributions*, *Wigner transform*, *biomedical data*, *ECG*.
 
 Publications: 
-- [Optical mapping-validated machine learning improves atrial fibrillation driver detection by multi-electrode mapping.](https://doi.org/10.1161/CIRCEP.119.008249)
-- [Machine Learning Trained With Optical Mapping Enhances Detection Of Atrial Fibrillation Drivers For Clinical Multi-electrode Mapping.](https://www.heartrhythmjournal.com/article/S1547-5271(19)30329-7/pdf)
+- [Optical mapping-validated machine learning improves atrial fibrillation driver detection by multi-electrode mapping](https://doi.org/10.1161/CIRCEP.119.008249). :computer:[Project code](https://github.com/DersUzala/FFT)
+- [Machine Learning Trained With Optical Mapping Enhances Detection Of Atrial Fibrillation Drivers For Clinical Multi-electrode Mapping](https://www.heartrhythmjournal.com/article/S1547-5271(19)30329-7/pdf)
 
 
 ### :mortar_board: Education
