@@ -14,8 +14,8 @@ Publications:
 
 ### 📫 How to connect with me
 
-- LinkedIn [<img align="left" alt="Ekaterina Ivanova | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][LinkedIn](https://www.linkedin.com/in/ecatherina/)
-- ODS [<img align="left" alt="Ekaterina Ivanova | ods.ai" width="22px" src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" />][ods](https://opendatascience.slack.com/team/UHESHUY4Q)
+- <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" /> [LinkedIn](https://www.linkedin.com/in/ecatherina/)
+- <img align="left" width="22px" src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" />[ODS](https://opendatascience.slack.com/team/UHESHUY4Q)
 
 
 ### Languages and Tools
