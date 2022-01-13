@@ -14,11 +14,9 @@ Publications:
 
 ### 📫 How to connect with me
 
-- LinkedIn [<img align="left" alt="Ekaterina Ivanova | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin] 
-- ODS [<img align="left" alt="Ekaterina Ivanova | ods.ai" width="22px" src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" />][ods]
+- LinkedIn [<img align="left" alt="Ekaterina Ivanova | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][LinkedIn](https://www.linkedin.com/in/ecatherina/)
+- ODS [<img align="left" alt="Ekaterina Ivanova | ods.ai" width="22px" src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" />][ods](https://opendatascience.slack.com/team/UHESHUY4Q)
 
-[linkedin]: https://www.linkedin.com/in/ecatherina/
-[ods]: https://opendatascience.slack.com/team/UHESHUY4Q
 
 ### Languages and Tools
 
@@ -29,26 +27,3 @@ Publications:
 <img align="left" alt="XGBoost" title="XGBoost" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" /> 
 <img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-
-
-
-
-
-
-
-
-
-<!--
-**ecatherina/ecatherina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
