@@ -1,5 +1,5 @@
 ## Ekaterina Ivanova - Data Scientist
-Currently, I am a PhD Candidat in Data Science at [Skoltech](https://www.skoltech.ru/obrazovanie/programmy-aspirantury/informatika-i-vychislitelnaya-tehnika/). The topic of my research is *machine learning*, *signal processing*, *time-frequency distributions*, *biomedical data*, *ECG*.
+Currently, I am a PhD candidate in Data Science at [Skoltech](https://www.skoltech.ru/obrazovanie/programmy-aspirantury/informatika-i-vychislitelnaya-tehnika/). The topic of my research is *machine learning*, *signal processing*, *time-frequency distributions*, *biomedical data*, *ECG*.
 
 Publications: 
 - [Optical mapping-validated machine learning improves atrial fibrillation driver detection by multi-electrode mapping](https://doi.org/10.1161/CIRCEP.119.008249). :computer:[Project code](https://github.com/DersUzala/FFT)
